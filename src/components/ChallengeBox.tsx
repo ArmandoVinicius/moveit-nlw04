@@ -19,15 +19,15 @@ export function ChallengeBox() {
           </main>
 
           <footer>
+            <button type="button" className={styles.challengeSucceededButton}>
+              Completei
+            </button>
             <button
               type="button"
               className={styles.challengeFailButton}
               onClick={resetChallenge}
             >
               Falhei
-            </button>
-            <button type="button" className={styles.challengeSucceededButton}>
-              Completei
             </button>
           </footer>
         </div>
