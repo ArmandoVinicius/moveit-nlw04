@@ -18,7 +18,7 @@
 
 <hr>
 
-<p>Capa do projeto: </p>
+<p>Imagens do projeto: </p>
 <img src="https://i.imgur.com/mlmuLdC.png">
 
 <img src="https://i.imgur.com/uqS6jL2.png">
