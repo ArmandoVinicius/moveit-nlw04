@@ -4,7 +4,7 @@
 
 <hr>
 
-<p>A plataforma <i>Exercise.it</i> foi construída ao decorrer da semana (22/02 - 26/02), na quarta edição do evento Next Level Week. Um evento gratuito da Rocketseat, onde o participante é desafiado a desenvolver juntamente com eles uma aplicação completa, que vai envolve React.JS</p>
+<p>A plataforma <i>Exercise.it</i> foi construída ao decorrer da semana (22/02 - 26/02), na quarta edição do evento Next Level Week. Um evento gratuito da Rocketseat, onde o participante é desafiado a desenvolver juntamente com eles uma aplicação completa, que envolve React.JS</p>
 
 <hr>
 
