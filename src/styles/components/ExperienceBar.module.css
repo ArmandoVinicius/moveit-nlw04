@@ -27,13 +27,3 @@ span.currentExperience {
   top: 12px;
   transform: translateX(-50%);
 }
-
-span.currentExperience::before {
-  content: '';
-  position: absolute;
-  width: 1.25px;
-  height: 8px;
-  top: -4px;
-  background: var(--blue-dark);
-  left: 50%;
-}
